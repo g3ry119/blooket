@@ -1,4 +1,4 @@
-# blooket
+# blooket-cheat
 
 Simple script to extract gaminfo + answers from blooket
 you can use the results to do something in your own script.
