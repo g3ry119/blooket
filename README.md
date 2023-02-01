@@ -1,4 +1,5 @@
 # blooket
 
-Simple script to extract game results from a blooket game change line 27 to game id
-use it to make you own script for it or whatever
+Simple script to extract gaminfo + answers from blooket
+you can use the results to do something in your own script.
+Last comment is an example of how the gameinfo looks like
